@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Movie Book</string>
+    <string name="image_descr" translatable="false">Image</string>
+    <string name="add_image_text">Add Image</string>
+    <string name="Null" translatable="false">null</string>
+    <string name="movie_name_text">Movie Name</string>
+    <string name="director_name_text">Director Name</string>
+    <string name="year_text">Year</string>
+    <string name="save_text">Save</string>
+    <string name="permission_needed_text">Permission Needed</string>
+    <string name="give_permission_text">Give Permission</string>
+</resources>

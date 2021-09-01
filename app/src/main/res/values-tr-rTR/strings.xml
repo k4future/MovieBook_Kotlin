@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_image_text">Resim Ekle</string>
+    <string name="movie_name_text">Film Adı</string>
+    <string name="director_name_text">Yönetmen Adı</string>
+    <string name="year_text">Yıl</string>
+    <string name="save_text">Kaydet</string>
+    <string name="permission_needed_text">İzin Gerekli</string>
+    <string name="give_permission_text">İzin Ver</string>
+</resources>
